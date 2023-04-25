@@ -1,6 +1,6 @@
 name="Iddly_Theatre"
 version="1.0"
-url="https://www.dropbox.com/s/0cwnkyrh1bj0axb/Iddly_Theatre.zip?dl=1"
+url="https://github.com/Maczilla/kodi/releases/download/v1.0/snowflix.zip"
 minor="http://"
 gui="https://www.dropbox.com/s/qlt6mmkp8zdwfhh/Iddly_Theatre_guisettings.zip?dl=1"
 kodi="20.0"
