@@ -19,7 +19,7 @@
         <description lang="en">[COLOR limegreen]Open[/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
         <platform>all</platform>
         <reuselanguageinvoker>false</reuselanguageinvoker>
-        <source>https://www.github.com/a4k-openproject/plugin.program.openwizard/</source>
+        <source>https://github.com/Maczilla/Maczilla.github.io/tree/main/repo/plugin.program.openwizard/</source>
         <news>
 2.0.8
 - Add support for Kodi V20 (Nexus)		
