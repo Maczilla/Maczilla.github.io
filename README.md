@@ -1,3 +1,3 @@
 Private Kodi builds...
 
-# Repo: Maczilla.github.io
+# Repo: https://Maczilla.github.io
