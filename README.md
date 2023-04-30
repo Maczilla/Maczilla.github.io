@@ -2,7 +2,7 @@ Private Kodi builds...
 
 # Repo: https://Maczilla.github.io
 
-click on SnowFlix & Grogu(20.1) apk 
+Download Grogu(20.1).apk under release - SnowFlix.
 
 After installation open app & click on build menu - continue - install.
 
