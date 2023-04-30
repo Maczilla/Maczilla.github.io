@@ -167,12 +167,12 @@
         <setting id="keeplogin" type="bool" label="Keep My Login Data" default="true"/>
         <setting id="loginnextsave" type="text" label="Last Time Login Data Saved:" visible="!eq(-1, false)" enable="false" default="2019-01-01 00:00:00"/>
         <setting type="lsep" label="Keep Settings When Installing Build:"/>
-        <setting id="keepfavourites" type="bool" label="Keep My Favourites" default="true"/>
-        <setting id="keepsources" type="bool" label="Keep My Sources" default="true"/>
+        <setting id="keepfavourites" type="bool" label="Keep My Favourites" default="false"/>
+        <setting id="keepsources" type="bool" label="Keep My Sources" default="false"/>
         <setting id="keepprofiles" type="bool" label="Keep My Profiles" default="false"/>
         <setting id="keepplayercore" type="bool" label="Keep My playercorefactory.xml" default="false"/>
         <setting id="keepguisettings" type="bool" label="Keep My guisettings.xml" default="false"/>
-        <setting id="keepadvanced" type="bool" label="Keep My AdvancedSettings.xml" default="true"/>
+        <setting id="keepadvanced" type="bool" label="Keep My AdvancedSettings.xml" default="false"/>
         <setting id="keeprepos" type="bool" label="Keep Installed Repositories" default="false"/>
         <setting id="keepsuper" type="bool" label="Keep Super Favourites" default="false"/>
         <setting id="keepwhitelist" type="bool" label="Keep My Whitelist Addons" default="false"/>
@@ -180,7 +180,7 @@
 
     <category label="View Settings">
         <setting id="developer" type="bool" label="Show Developer Menu: " enable="true" default=""/>
-        <setting id="adult" type="bool" label="Show Adult Addons: " enable="true" default="false"/>
+        <setting id="adult" type="bool" label="Show Adult Addons: " enable="true" default="true"/>
         <setting id="auto-view" type="bool" label="Enable Auto View" default="true"/>
         <setting id="viewType" type="number" label="View Type" default="50" visible="!eq(-1, false)" enable="!eq(-1,false)"/>
         <setting type="lsep" label="Notification Window on Startup:"/>
