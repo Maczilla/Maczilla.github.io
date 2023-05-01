@@ -16,4 +16,4 @@ Under music sign into your youtube account to get your playlists visible.
 
 Activate your Real-debrid account to get 4k HDR and Dolby Atoms.
 
-Free IPTV channels from iptv-org
+Free IPTV channels from iptv-org can be changed to your iptv provider.
