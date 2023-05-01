@@ -11,7 +11,7 @@ If you get an error goto addons - openwizard - builds - install.
 
 
 
-Extra info:
+[B]Extra info:[/B]
 Under music sign into your youtube account to get your playlists visible.
 
 Activate your Real-debrid account to get 4k HDR and Dolby Atoms.
