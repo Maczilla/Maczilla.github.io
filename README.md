@@ -8,6 +8,9 @@ After installation open app & click on Continue - build menu - install.
 If you get an error goto addons - openwizard - builds - install.
 
 
+
+
+
 Extra info:
 
 Under music sign into your youtube account to get your playlists visible.
