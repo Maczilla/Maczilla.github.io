@@ -14,7 +14,7 @@ description="A short description of the build."
 
 name="Iddly_Theatre"
 version="1.0"
-url="https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/Iddly_Theatre.zip"
+url="https://www.dropbox.com/s/0cwnkyrh1bj0axb/Iddly_Theatre.zip?dl=1"
 minor="http://"
 gui="https://www.dropbox.com/s/qlt6mmkp8zdwfhh/Iddly_Theatre_guisettings.zip?dl=1"
 kodi="20.1"
