@@ -7,7 +7,11 @@ After installation open app & click on Continue - build menu - install.
 
 If you get an error goto addons - openwizard - builds - install.
 
-
+Kodi builds:
+SnowFlix
+Iddly Theater
+Arctic Horizon 2 - under developement
+Netflix - under development
 
 
 
