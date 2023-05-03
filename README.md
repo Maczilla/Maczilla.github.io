@@ -9,13 +9,13 @@ If you get an error goto addons - openwizard - builds - install.
 
 Kodi builds:
 
-SnowFlix
+1. SnowFlix
 
-Iddly Theater
+2. Iddly Theater
 
-Arctic Horizon 2 - under developement
+3. Arctic Horizon 2 - under developement
 
-Netflix - under development
+4. Netflix - under development
 
 
 
