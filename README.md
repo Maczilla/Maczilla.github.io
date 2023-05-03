@@ -3,9 +3,9 @@ Install Kodi builds by repo or apk 64bit.
 
 Download Grogu.20.1.apk under Releases - SnowFlix.
 
-After installation open app & click on Continue - build menu - install.
+After installation open app & click on Continue - build menu - Snowflix - install.
 
-If you get an error goto addons - openwizard - builds - install.
+If you get an error goto addons - program addons -openwizard - builds - SnowFlix - install.
 
 Kodi builds:
 
