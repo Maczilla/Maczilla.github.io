@@ -13,9 +13,9 @@ Kodi builds:
 
 2. Iddly Theater
 
-3. Arctic Horizon 2 - under developement
+3. Arctic Horizon 2 - under developement...
 
-4. Netflix - under development
+4. Netflix - under developement...
 
 
 
