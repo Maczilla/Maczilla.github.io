@@ -1,5 +1,5 @@
 # Repo: https://Maczilla.github.io
-Insrall Kodi builds by repo or apk 64bit.
+Install Kodi builds by repo or apk 64bit.
 
 Download Grogu.20.1.apk under Releases - SnowFlix.
 
