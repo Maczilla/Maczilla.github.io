@@ -11,11 +11,13 @@ Kodi builds:
 
 1. SnowFlix
 
-2. Iddly Theater
+2. Notflix
 
-3. Arctic Horizon 2 - under developement...
+3. Flix 20
 
-4. Netflix - under developement...
+4. Iddly Theater
+
+5. Arctic Horizon 2 - under developement...
 
 
 
