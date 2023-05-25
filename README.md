@@ -9,7 +9,7 @@ If you get an error goto addons - program addons - openwizard - builds - SnowFli
 
 Kodi builds:
 
-1. SnowFlix - picture: https://tinyurl.com/2s3uauhe
+1. SnowFlix
 
 2. Notflix
 
