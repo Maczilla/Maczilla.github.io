@@ -22,7 +22,7 @@ Kodi builds:
 
 
 Extra info:
-
+How setup youtube account to get all your playlists visible: https://www.linuxbabe.com/raspberry-pi/kodi-youtube
 Under music sign into your youtube account to get your playlists visible.
 
 Activate your Real-debrid account to get 4k HDR and Dolby Atoms.
