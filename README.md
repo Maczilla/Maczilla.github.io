@@ -55,7 +55,7 @@ Install Kodi builds by repo, zip or apk 64bit.
 
 8. Done, now open kodi & use free version or login with you real-debrid account for premium.
 
-## Extra info:
+## Extra info
 How setup youtube account to get all your playlists visible on SnowFlix: https://www.linuxbabe.com/raspberry-pi/kodi-youtube
 Under music sign into your youtube account to get your playlists visible.
 
