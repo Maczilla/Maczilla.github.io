@@ -20,7 +20,7 @@ Install Kodi builds by repo, zip or apk 64bit.
 3. If you get an error goto addons - program addons - openwizard - builds - SnowFlix - install - yes, install.
 
 ## Repo install 
-1. Open kodi settings & file manager and click add.
+1. Open kodi - søSettings - filemanager - add.
 
 2. Click none & write: https://Maczilla.github.io
 
@@ -32,13 +32,11 @@ Install Kodi builds by repo, zip or apk 64bit.
 
 6. Settings - Add-ons - install from Repository - SnowFlix Repository - install. 
 
-7. Settings - Add-ons - program add-ons - openwizard - install.
+7. Settings - Addons - program add-ons - openwizard - install.
 
-8. Settings - addons - program addons - openwizard - builds - SnowFlix - install - yes, install.
+8. Settings - Addons - Program addons - Openwizard - Builds - SnowFlix - install - yes, install.
 
 9. Kodi will automatically close installion when is done.
-
-10. Done, now open kodi & use free version or login with you real-debrid account for premium.
 
 ## Zip install
 1. Download zip file on device or use usb: Maczilla.github.io
