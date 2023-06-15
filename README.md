@@ -1,6 +1,32 @@
 # Repo: https://Maczilla.github.io
 Install Kodi builds by repo, zip or apk 64bit.
 
+## Kodi builds:
+1. SnowFlix
+
+2. Notflix
+
+3. Flix 20
+
+4. Iddly Theater
+
+5. Arctic Ho## Kodi builds:
+1. SnowFlix
+
+2. Notflix
+
+3. Flix 20
+
+4. Iddly Theater
+
+5. Arctic Horizon 2 - under developement...rizon 2 - under developement...
+
+## Apk 64bit install:
+1. Download Grogu.20.1.apk under Releases - SnowFlix.
+
+2. After installation open app & click on Continue - build menu - Snowflix - install.
+
+3. If you get an error goto addons - program addons - openwizard - builds - SnowFlix - install - yes, install.
 
 ## Repo install 
 1. Open kodi settings & file manager and click add.
@@ -39,24 +65,6 @@ Install Kodi builds by repo, zip or apk 64bit.
 7. Kodi will automatically close installion when is done.
 
 8. Done, now open kodi & use free version or login with you real-debrid account for premium.
-
-## Apk 64bit install:
-1. Download Grogu.20.1.apk under Releases - SnowFlix.
-
-2. After installation open app & click on Continue - build menu - Snowflix - install.
-
-3. If you get an error goto addons - program addons - openwizard - builds - SnowFlix - install - yes, install.
-
-## Kodi builds:
-1. SnowFlix
-
-2. Notflix
-
-3. Flix 20
-
-4. Iddly Theater
-
-5. Arctic Horizon 2 - under developement...
 
 ## Extra info:
 How setup youtube account to get all your playlists visible on SnowFlix: https://www.linuxbabe.com/raspberry-pi/kodi-youtube
