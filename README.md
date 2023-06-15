@@ -1,7 +1,7 @@
 # Repo: https://Maczilla.github.io
 Install Kodi builds by repo, zip or apk 64bit.
 
-## Kodi builds:
+## Kodi builds
 1. SnowFlix
 
 2. Notflix
@@ -21,7 +21,7 @@ Install Kodi builds by repo, zip or apk 64bit.
 
 5. Arctic Horizon 2 - under developement...rizon 2 - under developement...
 
-## Apk 64bit install:
+## Apk 64bit install
 1. Download Grogu.20.1.apk under Releases - SnowFlix.
 
 2. After installation open app & click on Continue - build menu - Snowflix - install.
