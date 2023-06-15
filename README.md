@@ -10,7 +10,7 @@ Install Kodi builds by repo, zip or apk 64bit.
 
 4. Iddly Theater
 
-5. Arctic Horizon 2 - under developement...rizon 2 - under developement...
+5. Arctic Horizon 2 - under developement...
 
 ## Apk 64bit install
 1. Download Grogu.20.1.apk on this page under Releases - SnowFlix.
