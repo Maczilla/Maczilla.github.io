@@ -10,15 +10,6 @@ Install Kodi builds by repo, zip or apk 64bit.
 
 4. Iddly Theater
 
-5. Arctic Ho## Kodi builds:
-1. SnowFlix
-
-2. Notflix
-
-3. Flix 20
-
-4. Iddly Theater
-
 5. Arctic Horizon 2 - under developement...rizon 2 - under developement...
 
 ## Apk 64bit install
