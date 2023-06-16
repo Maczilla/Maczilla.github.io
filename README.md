@@ -2,7 +2,7 @@
 Install Kodi builds by repo, zip or apk 64bit.
 
 Video Tutorial: 
-https://tinyurl.com/SnowFlix
+https://tinyurl.com/KODI-MOD
 
 ## Kodi builds
 1. SnowFlix
