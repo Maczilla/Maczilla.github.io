@@ -18,7 +18,7 @@ https://tinyurl.com/SnowFlix
 ## Apk install 32/64bit
 1. Kodi 21 32bit.apk  https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/kodi_32bit.apk
 
-2. Kodi 21 64bit.apk https://github.com/Maczilla/Maczilla.github.io/releases/tag/v1.1
+2. Kodi 21 64bit.apk https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/kodi_64bit.apk
 
 3. After installation open app & click on Continue - build menu - Snowflix - install.
 
