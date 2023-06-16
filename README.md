@@ -16,7 +16,7 @@ https://tinyurl.com/SnowFlix
 5. Arctic Horizon 2 - under developement...
 
 ## Apk 64bit install
-1. Download Grogu.20.1.apk on this page under Releases - SnowFlix.
+1. Download Kodi_32bit or kodi_64bit here:
 
 2. After installation open app & click on Continue - build menu - Snowflix - install.
 
