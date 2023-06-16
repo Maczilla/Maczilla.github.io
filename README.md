@@ -19,7 +19,7 @@ Install Kodi builds by repo, zip or apk 64bit.
 
 3. If you get an error goto addons - program addons - openwizard - builds - SnowFlix - install - yes, install.
 
-32bit version for firesticks coming soon.
+32bit version for firesticks coming soon...
 
 ## Repo install
 Video Tutorial: 
