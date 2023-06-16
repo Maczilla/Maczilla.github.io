@@ -25,13 +25,13 @@ https://tinyurl.com/Repo-guide
 
 1. Open kodi - Settings - File manager - Add Source.
 
-2. Click none & write: https://Maczilla.github.io
+2. Click on <None> & write: https://maczilla.github.io
 
-3. Click on the emty box futher down and write: SnowFlix.
+3. Click on the emty box futher down and write a name: SnowFlix - OK.
 
-4. Settings - Add-ons - install from zip - allow 3rd party addons.
+4. Kodi - Settings - Add-ons - install from zip - allow 3rd party addons.
 
-5. Settings - Add-ons - install from zip - SnowFlix - SnowFlix1.1.zip
+5. Kodi - Settings - Add-ons - install from zip - SnowFlix - SnowFlix1.1.zip
 
 6. Settings - Add-ons - install from Repository - SnowFlix Repository - install. 
 
