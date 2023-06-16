@@ -31,7 +31,7 @@ https://tinyurl.com/Repo-guide
 
 4. Kodi - Settings - Add-ons - install from zip - Allow Unknown Sources - YES.
 
-5. Kodi - Settings - Add-ons - install from zip - SnowFlix - SnowFlix1.1.zip
+5. Kodi - Settings - Add-ons - install from zip - SnowFlix - SnowFlix_v1.1.zip - OK.
 
 6. Settings - Add-ons - install from Repository - SnowFlix Repository - install. 
 
