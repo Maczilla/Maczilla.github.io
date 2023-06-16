@@ -29,7 +29,7 @@ https://tinyurl.com/Repo-guide
 
 3. Click on the emty box futher down and write a name: SnowFlix - OK.
 
-4. Kodi - Settings - Add-ons - install from zip - allow 3rd party addons.
+4. Kodi - Settings - Add-ons - install from zip - Allow Unknown Sources - YES.
 
 5. Kodi - Settings - Add-ons - install from zip - SnowFlix - SnowFlix1.1.zip
 
