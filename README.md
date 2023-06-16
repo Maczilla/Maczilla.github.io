@@ -1,6 +1,9 @@
 # Repo: https://Maczilla.github.io
 Install Kodi builds by repo, zip or apk 64bit.
 
+Video Tutorial: 
+https://tinyurl.com/SnowFlix
+
 ## Kodi builds
 1. SnowFlix
 
@@ -22,8 +25,6 @@ Install Kodi builds by repo, zip or apk 64bit.
 32bit version for firesticks coming soon...
 
 ## Repo install
-Video Tutorial: 
-https://tinyurl.com/Repo-guide
 
 1. Open kodi - Settings - File manager - Add Source.
 
