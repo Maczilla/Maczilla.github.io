@@ -1,5 +1,5 @@
 # Repo: https://maczilla.github.io
-Install Kodi builds by repo, zip or apk 64bit.
+Install Kodi builds by repo, zip or apk 32/64bit.
 
 Video Tutorial: 
 https://tinyurl.com/SnowFlix
@@ -17,12 +17,9 @@ https://tinyurl.com/SnowFlix
 
 ## Apk 64bit install
 1. Download Kodi_32bit or kodi_64bit here:
+   https://github.com/Maczilla/Maczilla.github.io/releases/tag/v1.1
 
 2. After installation open app & click on Continue - build menu - Snowflix - install.
-
-3. If you get an error goto addons - program addons - openwizard - builds - SnowFlix - install - yes, install.
-
-32bit version for firesticks coming soon...
 
 ## Repo install
 
