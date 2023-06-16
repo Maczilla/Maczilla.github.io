@@ -16,8 +16,9 @@ https://tinyurl.com/SnowFlix
 5. Arctic Horizon 2 - under developement...
 
 ## Apk install 32/64bit
-1. Download Kodi_32bit.apk or kodi_64bit.apk here:
-   https://github.com/Maczilla/Maczilla.github.io/releases/tag/v1.1
+1. Kodi 21 32bit.apk  https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/kodi_32bit.apk
+
+2. Kodi 21 64bit.apk https://github.com/Maczilla/Maczilla.github.io/releases/tag/v1.1
 
 3. After installation open app & click on Continue - build menu - Snowflix - install.
 
