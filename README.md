@@ -1,4 +1,4 @@
-# Repo: https://Maczilla.github.io
+# Repo: https://maczilla.github.io
 Install Kodi builds by repo, zip or apk 64bit.
 
 Video Tutorial: 
