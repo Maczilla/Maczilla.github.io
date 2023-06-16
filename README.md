@@ -23,7 +23,7 @@ Install Kodi builds by repo, zip or apk 64bit.
 Video Tutorial: 
 https://tinyurl.com/Repo-guide
 
-1. Open kodi - Settings - File manager - add.
+1. Open kodi - Settings - File manager - Add Source.
 
 2. Click none & write: https://Maczilla.github.io
 
