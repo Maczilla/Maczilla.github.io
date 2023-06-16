@@ -20,7 +20,7 @@ Install Kodi builds by repo, zip or apk 64bit.
 3. If you get an error goto addons - program addons - openwizard - builds - SnowFlix - install - yes, install.
 
 ## Repo install
-video tutorial: 
+Video Tutorial: 
 https://tinyurl.com/Repo-guide
 
 1. Open kodi - Settings - Filemanager - add.
