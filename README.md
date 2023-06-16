@@ -25,7 +25,7 @@ https://tinyurl.com/Repo-guide
 
 1. Open kodi - Settings - File manager - Add Source.
 
-2. Click on <None> & write: https://maczilla.github.io
+2. Click on >None & write: https://maczilla.github.io
 
 3. Click on the emty box futher down and write a name: SnowFlix - OK.
 
