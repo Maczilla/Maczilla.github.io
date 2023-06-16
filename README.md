@@ -40,21 +40,17 @@ https://tinyurl.com/Repo-guide
 9. Kodi will automatically close installion when is done.
 
 ## Zip install
-1. Download zip file on device or use usb: Maczilla.github.io
+1. Download zip file on device or usb: Maczilla.github.io
 
-2. Settings - Add-ons - install from zip - allow 3rd party addons.
+2. Kodi - Settings - Add-ons - install from zip - Allow Unknown Sources - YES.
 
-3. Settings - Add-ons - install from zip - External device - your download location or usb - SnowFlix1.1.zip
+3. Settings - Add-ons - install from zip - External Device - (your download location) - SnowFlix_v1.1.zip
 
-4. Settings - Add-ons - install from Repository - SnowFlix Repository - install. 
+4. Settings - Add-ons - install from Repository - SnowFlix Repository - Program add-ons - Openwizard - install - OK.
 
-5. Settings - Add-ons - program add-ons - openwizard - install.
+5. Openwizard - Open - Continue - Build menu - (20.1)SnowFlix(v2.1) - (Openwizard)install - Yes, install.
 
-6. Settings - addons - program addons - openwizard - builds - SnowFlix - install - yes, install.
-
-7. Kodi will automatically close installion when is done.
-
-8. Done, now open kodi & use free version or login with you real-debrid account for premium.
+6. Kodi will automatically close installion when is done.
 
 ## Extra info
 How setup youtube account to get all your playlists visible on SnowFlix: https://www.linuxbabe.com/raspberry-pi/kodi-youtube
