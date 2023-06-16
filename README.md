@@ -31,13 +31,11 @@ https://tinyurl.com/Repo-guide
 
 4. Kodi - Settings - Add-ons - install from zip - Allow Unknown Sources - YES.
 
-5. Kodi - Settings - Add-ons - install from zip - SnowFlix - SnowFlix_v1.1.zip - OK.
+5. Kodi - Settings - Add-ons - install from zip - SnowFlix - SnowFlix_v1.1.zip
 
-6. Settings - Add-ons - install from Repository - SnowFlix Repository - install. 
+6. install from Repository - SnowFlix Repository - Program add-ons - Openwizard - install - OK.
 
-7. Settings - Addons - program add-ons - openwizard - install.
-
-8. Settings - Addons - Program addons - Openwizard - Builds - SnowFlix - install - yes, install.
+7. Openwizard - Open - Continue - Build menu - (20.1)SnowFlix(v2.1) - install - yes, install.
 
 9. Kodi will automatically close installion when is done.
 
