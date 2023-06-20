@@ -9,13 +9,14 @@ https://tinyurl.com/SnowFlix
    
 2. SnowFlix
 
-3. Notflix
+3. Arctic Horizon 2
 
 4. Flix 20
 
-5. Iddly Theater
+5. Notflix
+ 
+6. Iddly Theater
 
-6. Arctic Horizon 2 - under developement...
 
 ## Apk install 32/64bit
 1. Kodi 21 32bit.apk  https://tinyurl.com/Kodi-32bit
