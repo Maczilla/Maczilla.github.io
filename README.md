@@ -5,15 +5,17 @@ Video Tutorial:
 https://tinyurl.com/SnowFlix
 
 ## Kodi builds
-1. SnowFlix
+1. Fentastic
+   
+2. SnowFlix
 
-2. Notflix
+3. Notflix
 
-3. Flix 20
+4. Flix 20
 
-4. Iddly Theater
+5. Iddly Theater
 
-5. Arctic Horizon 2 - under developement...
+6. Arctic Horizon 2 - under developement...
 
 ## Apk install 32/64bit
 1. Kodi 21 32bit.apk  https://tinyurl.com/Kodi-32bit
