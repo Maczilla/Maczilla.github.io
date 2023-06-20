@@ -5,7 +5,7 @@ Video Tutorial:
 https://tinyurl.com/SnowFlix
 
 ## Kodi builds
-1. Fentastic - Firestick recommended
+1. Fentastic
    
 2. SnowFlix
 
