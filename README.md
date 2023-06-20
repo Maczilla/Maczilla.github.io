@@ -5,7 +5,7 @@ Video Tutorial:
 https://tinyurl.com/SnowFlix
 
 ## Kodi builds
-1. Fentastic
+1. Fentastic - Firestick recommended
    
 2. SnowFlix
 
@@ -23,7 +23,7 @@ https://tinyurl.com/SnowFlix
 
 2. Kodi 21 64bit.apk https://tinyurl.com/Kodi-64bit
 
-3. After installation open app & click on Continue - build menu - Snowflix - install.
+3. After installation open app & click on Continue - build menu - Fentastic- install.
 
 ## Repo install
 
