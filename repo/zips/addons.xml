@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="iddly.github.io" name="[COLOR white]Snow[/COLOR][COLOR red]Flix[/COLOR] [COLOR lightgreen]Repository[/COLOR]" version="2.0.9" provider-name="Maczilla">
+<addons><addon id="iddly.github.io" name="[COLOR white]Snow[/COLOR][COLOR red]Flix[/COLOR] [COLOR lightgreen]Repository[/COLOR]" version="2.0.9" provider-name="iddly">
     <extension point="xbmc.addon.repository" name="[COLOR white]Snow[/COLOR][COLOR red]Flix[/COLOR] [COLOR lightgreen]Repository[/COLOR]">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/Maczilla/Maczilla.github.io/main/repo/zips/addons.xml</info>
