@@ -1,5 +1,5 @@
 name="Fentastic"
-version="1.0.14"
+version="1.0.13"
 url="https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/Fentastic.zip"
 minor="http://"
 gui="https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/Fentastic_guisettings.zip"
