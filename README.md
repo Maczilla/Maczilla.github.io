@@ -52,7 +52,7 @@ https://tinyurl.com/SnowFlix
 
 4. Settings - Add-ons - install from Repository - SnowFlix Repository - Program add-ons - Openwizard - install - OK.
 
-5. Openwizard - Open - Continue - Build menu - (20.1)SnowFlix(v2.1) - (Openwizard)install - Yes, install.
+5. Openwizard - Open - Continue - Build menu - Fentastic v1.0.14 - (Openwizard)install - Yes, install.
 
 6. Kodi will automatically close installion when is done.
 
