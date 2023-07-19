@@ -76,7 +76,7 @@ gui="https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/Iddly
 kodi="20.1"
 theme="https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/Iddly_Theatre_Theme.zip"
 icon="https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/iddly1.png"
-fanart="hhttps://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/iddly1.png"
+fanart="https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/iddly1.png"
 preview="https://www.youtube.com/watch?v=ytPx3tdeCNg"
 adult="no"
 info="url.to.info"
