@@ -5,7 +5,8 @@ Download & install Kodi from official website or use APK Install tutorial futher
 
 Video Tutorial: 
 https://tinyurl.com/SnowFlix
-
+Kodi official website:
+https://kodi.tv/download/
 ## Kodi builds
 1. Fentastic
    
