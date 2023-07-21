@@ -14,7 +14,7 @@ description="A short description of the build."
 
 name="SnowFlix"
 version="2.1"
-url="https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/snowflix.zip"
+url="https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/Snowflix.zip"
 minor="http://"
 gui="https://github.com/Maczilla/Maczilla.github.io/raw/main/SnowFlix/guisettings.zip"
 kodi="20.1"
