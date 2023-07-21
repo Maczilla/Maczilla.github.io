@@ -11,7 +11,7 @@ https://tinyurl.com/SnowFlix
 Kodi official website:
 https://kodi.tv/download/
 ## Kodi builds
-1. Fentastic
+1. Fentastic (Firestick recommended)
    
 2. SnowFlix
 
