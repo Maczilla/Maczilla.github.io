@@ -13,7 +13,7 @@ info="url.to.info"
 description="A short description of the build."
 
 name="SnowFlix"
-version="2.1"
+version="2.2"
 url="https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/Snowflix.zip"
 minor="http://"
 gui="https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/Snowflix_guisettings.zip"
