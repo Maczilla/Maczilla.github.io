@@ -1,7 +1,8 @@
 # Repo: https://maczilla.github.io
 Install Kodi builds by repo, zip or apk 32/64bit.
 
-**Windows Mac Linux raspberry IOS** Download & install Kodi from official website & use Repo install.
+**Windows Mac Linux raspberry IOS** 
+Download & install Kodi from official website & use Repo install.
 
 **Android & Firesticks** 
 APK Install.
