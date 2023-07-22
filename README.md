@@ -1,5 +1,4 @@
-# Repo: https://maczilla.github.io
-**Install Kodi builds by repo or apk.**
+## Install Kodi builds by Repo or Apk
 
 **Windows Mac Linux Raspberry IOS** - 
 Download & install Kodi from [Official website](https://kodi.tv/download/) & use Repo install. [Video Tutorial](https://tinyurl.com/SnowFlix/)
