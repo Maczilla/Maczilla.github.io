@@ -25,7 +25,7 @@ APK Install [Kodi 32bit](https://tinyurl.com/Kodi-32bit) or [Kodi 64bit](https:/
 
 1. [Kodi 32bit](https://tinyurl.com/Kodi-32bit) or [Kodi 64bit](https://tinyurl.com/Kodi-64bit/)
 
-2. After installation open app & click on Continue - build menu - Fentastic- install.
+2. After installation open app & click on Continue - Build menu - (20.1)Fentastic(v1.5) - (Openwizard)install - Yes, install.
 
 ## Repo install
 ```
