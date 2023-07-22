@@ -5,7 +5,7 @@
 Download & install Kodi from [Official website](https://kodi.tv/download/) & use Repo install. [Video Tutorial](https://tinyurl.com/SnowFlix/)
 
 **Android & Firesticks** 
-APK Install [Kodi 32bit](https://tinyurl.com/Kodi-32bit) or [Kodi 64bit](https://tinyurl.com/Kodi-64bit/)
+APK Install [Kodi 32bit](https://tinyurl.com/Kodi-32bit) or [Kodi 64bit](https://tinyurl.com/Kodi-64bit/) Click on Continue - Build menu - Fentastic - install.
 
 
 ## Kodi builds
