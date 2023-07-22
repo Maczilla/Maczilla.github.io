@@ -29,7 +29,7 @@ https://kodi.tv/download/
 1. [Kodi 32bit](https://tinyurl.com/Kodi-32bit) or [Kodi 64bit](https://tinyurl.com/Kodi-64bit/)
 
 2. After installation open app & click on Continue - build menu - Fentastic- install.
-```
+
 ## Repo install
 ```
 1. Open kodi - Settings - File manager - Add Source.
