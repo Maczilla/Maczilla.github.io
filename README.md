@@ -63,6 +63,6 @@ APK Install [Kodi 32bit](https://tinyurl.com/Kodi-32bit) or [Kodi 64bit](https:/
 How setup youtube account to get all your playlists visible on SnowFlix: https://www.linuxbabe.com/raspberry-pi/kodi-youtube
 
 **4K HDR and Dolby Atoms**
-[Buy](https://real-debrid.com/premium/) & Activate your Real-debrid account. 
+[Buy](https://real-debrid.com/premium/) & [Activate](https://tinyurl.com/Tutgog) your Real-debrid account. 
 
 Free IPTV channels from iptv-org can be changed to your iptv provider.
