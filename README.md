@@ -23,9 +23,9 @@ https://kodi.tv/download/
  
 6. Iddly Theater
 
+[Kodi 21 32bit.apk](https://tinyurl.com/Kodi-32bit).
 ## Apk install 32/64bit
 ```
-[Kodi 21 32bit.apk](https://tinyurl.com/Kodi-32bit).
 1. Kodi 21 32bit.apk  https://tinyurl.com/Kodi-32bit/
 
 2. Kodi 21 64bit.apk https://tinyurl.com/Kodi-64bit
