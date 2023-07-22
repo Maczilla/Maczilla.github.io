@@ -1,5 +1,5 @@
 # Repo: https://maczilla.github.io
-**Install Kodi builds by repo, zip or apk.**
+**Install Kodi builds by repo or apk.**
 
 **Windows Mac Linux Raspberry IOS** 
 Download & install Kodi from [Official website](https://kodi.tv/download/) & use Repo install. [Video Tutorial](https://tinyurl.com/SnowFlix/)
@@ -44,20 +44,6 @@ APK Install [Kodi 32bit](https://tinyurl.com/Kodi-32bit) or [Kodi 64bit](https:/
 7. Openwizard - Open - Continue - Build menu - (20.1)Fentastic(v1.5) - (Openwizard)install - Yes, install.
 
 9. Kodi will automatically close installion when is done.
-```
-## Zip install
-```
-1. Download zip file on device or usb: Maczilla.github.io
-
-2. Kodi - Settings - Add-ons - install from zip - Allow Unknown Sources - YES.
-
-3. Settings - Add-ons - install from zip - External Device - (your download location) - SnowFlix_v1.1.zip
-
-4. Settings - Add-ons - install from Repository - SnowFlix Repository - Program add-ons - Openwizard - install - OK.
-
-5. Openwizard - Open - Continue - Build menu - Fentastic v1.0.14 - (Openwizard)install - Yes, install.
-
-6. Kodi will automatically close installion when is done.
 ```
 ## Extra info
 **4K HDR Dolby Vision and Dolby Atoms**
