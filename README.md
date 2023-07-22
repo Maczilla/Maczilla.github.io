@@ -32,7 +32,7 @@ https://kodi.tv/download/
 3. After installation open app & click on Continue - build menu - Fentastic- install.
 ```
 ## Repo install
-
+```
 1. Open kodi - Settings - File manager - Add Source.
 
 2. Click on >None & write: https://maczilla.github.io
@@ -48,8 +48,9 @@ https://kodi.tv/download/
 7. Openwizard - Open - Continue - Build menu - (20.1)SnowFlix(v2.1) - (Openwizard)install - Yes, install.
 
 9. Kodi will automatically close installion when is done.
-
+```
 ## Zip install
+```
 1. Download zip file on device or usb: Maczilla.github.io
 
 2. Kodi - Settings - Add-ons - install from zip - Allow Unknown Sources - YES.
@@ -61,7 +62,7 @@ https://kodi.tv/download/
 5. Openwizard - Open - Continue - Build menu - Fentastic v1.0.14 - (Openwizard)install - Yes, install.
 
 6. Kodi will automatically close installion when is done.
-
+```
 ## Extra info
 How setup youtube account to get all your playlists visible on SnowFlix: https://www.linuxbabe.com/raspberry-pi/kodi-youtube
 Under music sign into your youtube account to get your playlists visible.
