@@ -2,7 +2,7 @@
 Install Kodi builds by repo, zip or apk 32/64bit.
 
 **Windows Mac Linux Raspberry IOS** 
-Download & install Kodi from official website & use Repo install.
+Download & install Kodi from [official website](https://kodi.tv/download/) & use Repo install.
 
 **Android & Firesticks** 
 APK Install.
