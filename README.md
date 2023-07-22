@@ -25,7 +25,8 @@ https://kodi.tv/download/
 
 ## Apk install 32/64bit
 ```
-1. [Kodi 21 32bit.apk]  (https://tinyurl.com/Kodi-32bit/).
+[Kodi 21 32bit.apk](https://tinyurl.com/Kodi-32bit).
+1. Kodi 21 32bit.apk  https://tinyurl.com/Kodi-32bit/
 
 2. Kodi 21 64bit.apk https://tinyurl.com/Kodi-64bit
 
