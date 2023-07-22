@@ -10,6 +10,7 @@ https://tinyurl.com/SnowFlix
 
 Kodi official website:
 https://kodi.tv/download/
+
 ## Kodi builds
 1. Fentastic (Firestick recommended)
    
@@ -25,7 +26,7 @@ https://kodi.tv/download/
 
 ## Apk install 32/64bit
 
-1. [Kodi 21 32bit.apk](https://tinyurl.com/Kodi-32bit) or [Kodi 21 64bit.apk](https://tinyurl.com/Kodi-64bit/)
+1. [Kodi 32bit](https://tinyurl.com/Kodi-32bit) or [Kodi 64bit](https://tinyurl.com/Kodi-64bit/)
 
 2. After installation open app & click on Continue - build menu - Fentastic- install.
 ```
