@@ -2,7 +2,7 @@
 **Install Kodi builds by repo, zip or apk.**
 
 **Windows Mac Linux Raspberry IOS** 
-Download & install Kodi from [official website](https://kodi.tv/download/) & use Repo install. [Video Tutorial](https://tinyurl.com/SnowFlix/)
+Download & install Kodi from [Official website](https://kodi.tv/download/) & use Repo install. [Video Tutorial](https://tinyurl.com/SnowFlix/)
 
 **Android & Firesticks** 
 APK Install [Kodi 32bit](https://tinyurl.com/Kodi-32bit) or [Kodi 64bit](https://tinyurl.com/Kodi-64bit/)
@@ -60,9 +60,9 @@ APK Install [Kodi 32bit](https://tinyurl.com/Kodi-32bit) or [Kodi 64bit](https:/
 6. Kodi will automatically close installion when is done.
 ```
 ## Extra info
-How setup youtube account to get all your playlists visible on SnowFlix: https://www.linuxbabe.com/raspberry-pi/kodi-youtube
-
 **4K HDR and Dolby Atoms**
 [Buy](https://real-debrid.com/) & [Activate](https://tinyurl.com/Tutgog) your Real-debrid account. 
 
-Free IPTV channels from iptv-org can be changed to your iptv provider.
+**IPTV Channels** from iptv-org can be changed to your iptv provider.
+
+How setup youtube account to get all your playlists visible on SnowFlix: https://www.linuxbabe.com/raspberry-pi/kodi-youtube
