@@ -23,14 +23,14 @@ https://kodi.tv/download/
  
 6. Iddly Theater
 
-
+```
 ## Apk install 32/64bit
 1. Kodi 21 32bit.apk  https://tinyurl.com/Kodi-32bit
 
 2. Kodi 21 64bit.apk https://tinyurl.com/Kodi-64bit
 
 3. After installation open app & click on Continue - build menu - Fentastic- install.
-
+```
 ## Repo install
 
 1. Open kodi - Settings - File manager - Add Source.
