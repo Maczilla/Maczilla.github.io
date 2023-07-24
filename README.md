@@ -46,7 +46,7 @@ APK Install [Kodi 32bit](https://tinyurl.com/Kodi-32bit) or [Kodi 64bit](https:/
 ```
 ## Extra info
 **4K HDR Dolby Vision and Dolby Atoms**
-[Buy](https://real-debrid.com/) & [Activate](https://tinyurl.com/Tutgog) your Real-debrid account. 
+[Buy](https://real-debrid.com/) & [Activate](https://tinyurl.com/Kodidebrid) your Real-debrid account. 
 
 **IPTV Channels** from iptv-org can be changed to your iptv provider.
 
