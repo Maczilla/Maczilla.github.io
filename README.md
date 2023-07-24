@@ -1,6 +1,6 @@
 ## Install Kodi Builds by Repo or Apk
 
-**Windows Mac IOS Linux Raspberry ** - 
+**Windows Mac IOS Linux Raspberry** - 
 Download & install Kodi from [Official website](https://kodi.tv/download/) & use Repo install. [Video Tutorial](https://tinyurl.com/SnowFlix/)
 
 **Android & Firesticks** - 
