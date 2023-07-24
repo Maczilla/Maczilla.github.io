@@ -1,7 +1,7 @@
 ## Install Kodi Builds by Repo or Apk
 
 **Windows Mac IOS Linux Raspberry** - 
-Download & install Kodi from [Official website](https://kodi.tv/download/) & use Repo install tutorial futher down or [Video Tutorial](https://tinyurl.com/SnowFlix/)
+Download & install Kodi from [Official website](https://kodi.tv/download/) & use Repo install tutorial futher down or [Video Tutorial.](https://tinyurl.com/SnowFlix/)
 
 **Android & Firesticks** - 
 APK Install [Kodi 32bit](https://tinyurl.com/Kodi-32bit) or [Kodi 64bit](https://tinyurl.com/Kodi-64bit/) Click on Continue - Build menu - Fentastic - install
