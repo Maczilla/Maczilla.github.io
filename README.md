@@ -41,8 +41,6 @@ APK Install [Kodi 32bit](https://tinyurl.com/Kodi-32bit) or [Kodi 64bit](https:/
 6. install from Repository - SnowFlix Repository - Program add-ons - Openwizard - install - OK.
 
 7. Kodi - Settings - Add-ons - Program add-ons - Openwizard - Builds - (20.1)Fentastic(v1.5) - (Openwizard)install - Yes, install.
-
-9. Kodi will automatically close installion when is done.
 ```
 ## Extra info
 **4K HDR Dolby Vision and Dolby Atoms**
