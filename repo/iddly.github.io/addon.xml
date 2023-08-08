@@ -6,6 +6,11 @@
             <checksum>https://raw.githubusercontent.com/Maczilla/Maczilla.github.io/main/repo/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/Maczilla/Maczilla.github.io/main/repo/zips/</datadir>
         </dir>
+        <dir>
+    <info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml.md5</checksum>
+    <datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/</datadir>
+</dir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>[COLOR white]Snow[/COLOR][COLOR red]Flix[/COLOR] [COLOR lightgreen]Repository[/COLOR]</summary>
