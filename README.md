@@ -20,10 +20,10 @@ APK Install [Kodi 32bit](https://tinyurl.com/Kodi-32bit) or [Kodi 64bit](https:/
 4. Flix 20
 ![alt text](https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/flix.png)
 
-6. Notflix
+5. Notflix
 ![alt text](https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/netflix.jpg)
 
-8. Iddly Theater
+6. Iddly Theater
 ![alt text](https://raw.githubusercontent.com/Maczilla/Maczilla.github.io/main/Iddly/iddly1.png)
 
 ## Apk install 32/64bit
