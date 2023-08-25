@@ -9,16 +9,17 @@ APK Install [Kodi 32bit](https://tinyurl.com/Kodi-32bit) or [Kodi 64bit](https:/
 
 ## Kodi builds
 1. Fentastic (Firestick recommended)
+![alt text](https://raw.githubusercontent.com/ivarbrandt/skin.fentastic/main/resources/images/customizable_widgets.jpg)  
    
-2. SnowFlix
+3. SnowFlix
 
-3. Arctic Horizon 2
+4. Arctic Horizon 2
 
-4. Flix 20
+5. Flix 20
 
-5. Notflix
+6. Notflix
  
-6. Iddly Theater
+7. Iddly Theater
 
 ## Apk install 32/64bit
 
