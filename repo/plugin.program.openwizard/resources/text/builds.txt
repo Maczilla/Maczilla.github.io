@@ -28,7 +28,7 @@ description="A short description of the build."
 
 name="Arctic Fuse"
 version="1.0"
-url="https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/ah2.zip"
+url="https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/AFuse.zip"
 minor="http://"
 gui="https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/ah2_guisettings.zip"
 kodi="20.1"
