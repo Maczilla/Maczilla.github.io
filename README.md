@@ -12,7 +12,7 @@ APK Install [Kodi 32bit](https://tinyurl.com/Kodi-32bit) or [Kodi 64bit](https:/
 ![alt text](https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/fentastic.jpg)  
 
 2. Arctic Fuse
-![alt text](https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/AH2.png)
+![alt text](https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/Arctic.jpg)
 
    
 3. SnowFlix
