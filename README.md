@@ -10,21 +10,15 @@ APK Install [Kodi 32bit](https://tinyurl.com/Kodi-32bit) or [Kodi 64bit](https:/
 ## Kodi builds
 1. Fentastic (Firestick recommended)
 ![alt text](https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/fentastic.jpg)  
-   
-2. SnowFlix
-![alt text](https://raw.githubusercontent.com/Maczilla/Maczilla.github.io/main/SnowFlix/Frosty2.png)
 
-3. Arctic Horizon 2
+2. Arctic Fuse
 ![alt text](https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/AH2.png)
 
-4. Flix 20
-![alt text](https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/flix.png)
+   
+3. SnowFlix
+![alt text](https://raw.githubusercontent.com/Maczilla/Maczilla.github.io/main/SnowFlix/Frosty2.png)
 
-5. Notflix
-![alt text](https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/netflix.jpg)
 
-6. Iddly Theater
-![alt text](https://raw.githubusercontent.com/Maczilla/Maczilla.github.io/main/Iddly/iddly1.png)
 
 ## Apk install 32/64bit
 
