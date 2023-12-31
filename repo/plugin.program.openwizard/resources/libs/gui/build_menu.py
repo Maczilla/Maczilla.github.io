@@ -91,7 +91,7 @@ class BuildMenu:
             directory.add_file('{0}'.format(CONFIG.BUILDFILE), icon=CONFIG.ICONBUILDS, themeit=CONFIG.THEME3)
             return
 
-        total, count20, count19, adultcount, hidden = check.build_count()
+        total, count19, adultcount, hidden = check.build_count()
 
         match = re.compile('name="(.+?)".+?ersion="(.+?)".+?rl="(.+?)".+?ui="(.+?)".+?odi="(.+?)".+?heme="(.+?)".+?con="(.+?)".+?anart="(.+?)".+?dult="(.+?)".+?escription="(.+?)"').findall(link)
         
@@ -113,12 +113,6 @@ class BuildMenu:
             if CONFIG.SEPARATE == 'true':
                 self._list_all(match)
             else:
-                if count20 > 0:
-                    state = '+' if CONFIG.SHOW20 == 'false' else '-'
-                    directory.add_file('[B]{0} Nexus Builds ({1})[/B]'.format(state, count20), {'mode': 'togglesetting',
-                                       'name': 'show20'}, themeit=CONFIG.THEME3)
-                    if CONFIG.SHOW20 == 'true':
-                        self._list_all(match, kodiv=20)
                 if count19 > 0:
                     state = '+' if CONFIG.SHOW19 == 'false' else '-'
                     directory.add_file('[B]{0} Matrix Builds ({1})[/B]'.format(state, count19), {'mode': 'togglesetting',
