@@ -27,7 +27,7 @@ info="url.to.info"
 description="A short description of the build."
 
 name="Arctic Zephyr 2"
-version="20.1"
+version="2.1"
 url="https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/Arctic_Zephyr2.zip"
 minor="http://"
 gui="https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/Arctic_Zephyr2_guisettings.zip"
