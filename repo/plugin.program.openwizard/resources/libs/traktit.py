@@ -29,34 +29,10 @@ from resources.libs.common.config import CONFIG
 from resources.libs.common import logging
 from resources.libs.common import tools
 
-ORDER = ['fen', 'seren', 'exodusredux', 'gaia', 'numbers', 'openmeta', 'premiumizer',
-         'realizer', 'scrubs', 'shadow', 'thecrew', 'trakt', 'venom']
+ORDER = ['exodusredux', 'fen', 'gaia', 'numbers', 'openmeta', 'premiumizer',
+         'realizer', 'scrubs', 'seren', 'shadow', 'thecrew', 'trakt', 'venom']
 
 TRAKTID = {
-    'fen': {
-        'name'     : 'Fen',
-        'plugin'   : 'plugin.video.fen',
-        'saved'    : 'fen',
-        'path'     : os.path.join(CONFIG.ADDONS, 'plugin.video.fen'),
-        'icon'     : os.path.join(CONFIG.ADDONS, 'plugin.video.fen', 'icon.png'),
-        'fanart'   : os.path.join(CONFIG.ADDONS, 'plugin.video.fen', 'fanart.png'),
-        'file'     : os.path.join(CONFIG.TRAKTFOLD, 'fen_trakt'),
-        'settings' : os.path.join(CONFIG.ADDON_DATA, 'plugin.video.fen', 'settings.xml'),
-        'default'  : 'trakt.user',
-        'data'     : ['trakt.token', 'trakt.user', 'trakt.refresh', 'trakt.expires', 'watched_indicators'],
-        'activate' : 'RunPlugin(plugin://plugin.video.fen/?mode=trakt.trakt_authenticate())'},
-    'seren': {
-        'name'     : 'Seren',
-        'plugin'   : 'plugin.video.seren',
-        'saved'    : 'seren',
-        'path'     : os.path.join(CONFIG.ADDONS, 'plugin.video.seren'),
-        'icon'     : os.path.join(CONFIG.ADDONS, 'plugin.video.seren', 'temp-icon.png'),
-        'fanart'   : os.path.join(CONFIG.ADDONS, 'plugin.video.seren', 'temp-fanart.png'),
-        'file'     : os.path.join(CONFIG.TRAKTFOLD, 'seren_trakt'),
-        'settings' : os.path.join(CONFIG.ADDON_DATA, 'plugin.video.seren', 'settings.xml'),
-        'default'  : 'trakt.username',
-        'data'     : ['trakt.auth', 'trakt.refresh', 'trakt.username'],
-        'activate' : 'RunPlugin(plugin://plugin.video.seren/?action=authTrakt)'},
     'gaia': {
         'name'     : 'Gaia',
         'plugin'   : 'plugin.video.gaia',
@@ -81,6 +57,18 @@ TRAKTID = {
         'default'  : 'trakt.user',
         'data'     : ['trakt.token', 'trakt.refresh', 'trakt.user'],
         'activate' : 'RunPlugin(plugin://plugin.video.numbersbynumbers/?action=authTrakt)'},
+    'seren': {
+        'name'     : 'Seren',
+        'plugin'   : 'plugin.video.seren',
+        'saved'    : 'seren',
+        'path'     : os.path.join(CONFIG.ADDONS, 'plugin.video.seren'),
+        'icon'     : os.path.join(CONFIG.ADDONS, 'plugin.video.seren', 'temp-icon.png'),
+        'fanart'   : os.path.join(CONFIG.ADDONS, 'plugin.video.seren', 'temp-fanart.png'),
+        'file'     : os.path.join(CONFIG.TRAKTFOLD, 'seren_trakt'),
+        'settings' : os.path.join(CONFIG.ADDON_DATA, 'plugin.video.seren', 'settings.xml'),
+        'default'  : 'trakt.username',
+        'data'     : ['trakt.auth', 'trakt.refresh', 'trakt.username'],
+        'activate' : 'RunPlugin(plugin://plugin.video.seren/?action=authTrakt)'},
     'trakt': {
         'name'     : 'Trakt',
         'plugin'   : 'script.trakt',
@@ -212,7 +200,19 @@ TRAKTID = {
         'settings' : os.path.join(CONFIG.ADDON_DATA, 'plugin.video.themoviedb.helper', 'settings.xml'),
         'default'  : 'trakt.management',
         'data'     : ['trakt.token', 'trakt.management'],
-        'activate' : 'RunScript(plugin.video.themoviedb.helper, authenticate_trakt)'}
+        'activate' : 'RunScript(plugin.video.themoviedb.helper, authenticate_trakt)'},
+    'fen': {
+        'name'     : 'Fen',
+        'plugin'   : 'plugin.video.fen',
+        'saved'    : 'fen',
+        'path'     : os.path.join(CONFIG.ADDONS, 'plugin.video.fen'),
+        'icon'     : os.path.join(CONFIG.ADDONS, 'plugin.video.fen', 'icon.png'),
+        'fanart'   : os.path.join(CONFIG.ADDONS, 'plugin.video.fen', 'fanart.png'),
+        'file'     : os.path.join(CONFIG.TRAKTFOLD, 'fen_trakt'),
+        'settings' : os.path.join(CONFIG.ADDON_DATA, 'plugin.video.fen', 'settings.xml'),
+        'default'  : 'trakt_user',
+        'data'     : ['trakt_user', 'trakt_access_token', 'trakt_refresh_token',  'trakt_expires_at'],
+        'activate' : 'RunPlugin(plugin://plugin.video.fen/?mode=trakt_authenticate)'}
 }
 
 

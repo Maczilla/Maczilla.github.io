@@ -218,8 +218,8 @@ DEBRIDID = {
         'fanart'   : os.path.join(CONFIG.ADDONS, 'plugin.video.fen', 'fanart.png'),
         'file'     : os.path.join(CONFIG.DEBRIDFOLD, 'fen_rd'),
         'settings' : os.path.join(CONFIG.ADDON_DATA, 'plugin.video.fen', 'settings.xml'),
-        'default'  : 'rd.account_id',
-        'data'     : ['rd.token', 'rd.enabled', 'rd.account_id', 'rd.client_id', 'rd.refresh', 'rd.secret'],
+        'default'  : 'rd.username',
+        'data'     : ['rd.username', 'rd.token', 'rd.auth', 'rd.client_id', 'rd.refresh', 'rd.secret'],
         'activate' : 'RunPlugin(plugin://plugin.video.fen/?mode=real_debrid.authenticate)'},
     'fenpm': {
         'name'     : 'Fen PM',

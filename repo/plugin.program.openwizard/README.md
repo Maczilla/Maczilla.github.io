@@ -1,13 +1,6 @@
 # plugin.program.openwizard
 OpenWizard
 
-# Updating
-When this repo is updated, you must:
-  - Bump the addon.xml file version (then commit/push)
-  - 'git submodule update --recursive --remote' on the 2kdevsrepo
-  - delete zips and re-run repo_generator
-  - commit/push 2kdevsrepo
-
 # THIS PROJECT IS NO LONGER IN DEVELOPMENT.
 
 OpenWizard was created to help the Kodi community out and help get rid of the broken personal wizards that are floating around. As this is a work in progress, a repository is highly recommended, but if you prefer not to, there is a built-in auto-updater.
