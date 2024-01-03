@@ -41,7 +41,7 @@ info="url.to.info"
 description="A short description of the build."
 
 name="Danish"
-version="1.0.23"
+version="1.0.1"
 url="https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/Danish.zip"
 minor="http://"
 gui="https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/Danish_guisettings.zip"
