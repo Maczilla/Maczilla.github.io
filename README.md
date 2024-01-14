@@ -15,7 +15,7 @@ APK Install [Kodi 32bit](https://tinyurl.com/Kodi-32bit) or [Kodi 64bit](https:/
 ![alt text](https://github.com/Maczilla/Maczilla.github.io/releases/download/v1.1/Arctic.jpg)
 
    
-3. SnowFlix
+3. Arctic Zephyr 2
 ![alt text](https://raw.githubusercontent.com/Maczilla/Maczilla.github.io/main/SnowFlix/Frosty2.png)
 
 
