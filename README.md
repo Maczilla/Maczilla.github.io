@@ -1,6 +1,6 @@
 ## Install Kodi Builds by Repo or Apk
 
-**Windows Mac IOS Linux Raspberry:**  
+**Windows Mac IOS Linux Raspberry LG TV:**  
 Download & install Kodi from [Official website](https://kodi.tv/download/) & use Repo install tutorial futher down or this [Video Tutorial](https://tinyurl.com/SnowFlix/) to install the kodi build.
 
 **Android & Firesticks:**  
